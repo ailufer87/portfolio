@@ -1,0 +1,277 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+</style>
+
+
+/*----------------*/
+/* BARRA DE NAVEGACION*/ 
+
+.nav-link{
+    text-decoration: none;
+    color: #282828;
+    font-size:16px;
+}
+.navbar-toggler{
+    font-size: 1rem;
+    border: transparent;
+}
+
+.nav-link:hover{
+    color: #282828;
+}
+
+nav .active {
+    border: 1px solid #E20000;
+    border-radius: 20px;
+}
+
+.btn-rojo {                      /*boton rojo de CV y cajas-proyectos (ver online)*/
+    color: white;
+    background-color:#e20000;
+    border-radius: 15px;
+    font-weight: 100;
+    padding: 6px 12px;
+    text-decoration: none;
+    text-align: center;
+}
+
+.btn-rojo:hover{
+    background-color:#370a6d;
+    color: white;
+}
+/*----------------*/
+/* FIN BARRA DE NAVEGACION*/
+
+
+/*PAGINA INICIO*/               /*si es un ID se pode #, si es una CLASS se pone PUNTO*/
+#inicio{
+    background-image: url(../imagenes/fondo-contacto.png);
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+
+
+/*PAGINA PROYECTOS*/
+#proyectos{
+    background-image: url(../imagenes/fondo-proyectos.png);
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+#caja-proyecto{
+    border: rgba(0,0,0,.125) solid 1px;
+    background-color: white;
+}
+
+#caja-proyecto h2{
+    font-size: 16px;
+    color: white;
+    background-color: #e20000;
+}
+
+#caja-proyecto p{
+    font-size: 14px;
+    height: 150px;
+}
+
+.codigo-f a{
+    text-decoration: none;
+    color: #e20000;
+}
+
+#caja-proyecto img{
+    height: 210px;
+}
+
+/*PAGINA SOBRE MI*/
+#sobre-mi{
+    background-image: url(../imagenes/fondo-proyectos.png);
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+
+#sobre-mi p {
+    height: 120px;
+}
+
+#sobre-mi h2{
+    font-size: 24px;
+    color: white;
+}
+
+#sobre-mi h3{
+    font-size: 14px;
+    text-align: center;
+}
+
+
+
+#sobre-mi .foto img {
+    max-width: 100%;
+    border: #ffffff solid 8px;
+    border-radius: 50%;
+}
+
+.fila-roja{
+    background: linear-gradient(to right, rgba(184,37,20,1) 0%, rgba(214,52,30,1) 47%, rgba(240,47,23,1) 70%, rgba(240,47,23,1) 100%);)
+}
+
+#caja-tecnologia{
+    background-color: #ffffff;
+    border-radius: 4px;
+
+}
+
+#caja-tecnologia img{
+    height: 50px;
+    
+}
+
+#experiencia-lab h2 {
+    color:#E20000;
+    font-size: 24px;
+}
+.fa-briefcase{
+    color: #E20000;
+}
+
+#logos-trabajos img{
+    max-width: 100%;
+    height: auto;
+    color:#282828 !important;    /*no me sale el color*/
+}
+#logos-trabajos .baw {
+    filter: grayscale(100%);
+}
+
+#logos-trabajos .baw:hover {
+    filter: grayscale(0%);
+}
+
+#texto-trabajos h3{
+    text-align: start;
+    font-size: 18px;
+    color: #6a6a66;
+}
+
+#texto-trabajos h4{
+    text-align: start;
+    font-size: 17px;
+    color:#E20000;
+}
+#texto-trabajos h5{
+    text-align: start;
+    font-size: 14px;
+    color: #6a6a66;
+}
+
+#texto-trabajos p {
+    height: fit-content;
+}
+
+
+/*PAGINA CONTACTO*/
+#contacto{                              
+    background-image: url(../imagenes/fondo-contacto.png);
+    background-size: 100%;
+    background-repeat: no-repeat; 
+}  
+
+
+
+/*----------------*/
+/* FORMULARIO CONTACTO*/
+.form-control{
+    border-radius: 15px;
+}
+
+textarea{ 
+    height: 150px;}
+
+.btn-blanco{                                      /*boton blanco Enviar*/
+    background-color: #ffffff;
+    color: #370a6d; 
+    border-radius: 14px;
+    border: none;
+    cursor: pointer;
+}
+.btn-blanco:hover{
+    background-color: #370a6d;
+    color: white;
+}
+
+/*----------------*/
+/*FIN  FORMULARIO CONTACTO*/
+
+/*GENERAL*/
+
+h1{
+    color: #e20000;
+    font-size: 36px;
+}
+
+p{
+    color: #6a6a66;
+    font-size: 16px;
+  }
+
+body{
+    font-family: 'Montserrat', sans-serif;
+}
+
+
+
+/*----------------*/
+/* FOOTER E ICONO WA*/
+footer, footer a{
+    color: white;
+    font-size: 18px;
+    font-weight: 100;
+}
+
+#proyectos footer a, #proyectos .fa-github, #proyectos .fa-linkedin, #sobre-mi footer a, #sobre-mi .fa-github, #sobre-mi .fa-linkedin{  /*en ventana proyecto esa zona del fondo es blanco*/
+    color: #e20000;
+    font-weight: 300;
+}
+
+.fa-github, .fa-linkedin{
+    font-size: 30px;
+}
+
+.whatsapp{
+    position: fixed;
+    right: 80px;
+    bottom: 0px; 
+    background-color: #370a6d;
+    border-top-left-radius: 14px;
+    border-top-right-radius: 14px;
+}
+
+.fa-whatsapp{
+    font-size: 32px;
+    color: white;}
+
+body{  /*puse al final el font-family para que sea lo ultimo que lee y modifique predeterminados por bootstrap*/
+    font-family: 'Montserrat', sans-serif;
+}
+/*----------------*/
+/* FIN FOOTER E ICONO WA*/
+
+
+
+/*----------------*/
+/*--- AJUSTES DE PANTALLA--*/
+
+ @media (max-width: 768px){
+
+#contacto{
+    background-image: url(../imagenes/fondo-proyectos.png);
+}
+
+footer a{
+    color: #e20000;
+    font-weight: 200;
+}
+}
+
+nav .active {
+    width: fit-content;
+}
