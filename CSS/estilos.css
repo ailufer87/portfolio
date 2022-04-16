@@ -309,7 +309,12 @@ nav .active {
 #fila-gris .caja-i-h .imagen-ih{
     width: 120px;
 }
-    
+
+#fila-gris .caja-i-h{
+    margin-top: 10px ;
+}
+
+
 #logos-trabajos img {
     display:none
 }

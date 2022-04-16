@@ -311,11 +311,11 @@
                 <div class="row py-5 mx-0" >
                     <div class="col-12 col-sm-6  pe-5 d-block">
                         <div class="row shadow caja-i-h ">
-                            <div class="col-sm-4 p-0 ">
+                            <div class="col-4 p-0 ">
                                 <i class="fa-solid fa-message imagen-ih pt-5"></i>
                             </div>
-                            <div class="col-sm-8 ">
-                                <p class="p-5"><span class="negrita">IDIOMAS</span> <br>
+                            <div class="col-8 ">
+                                <p class="p-5 py-4"><span class="negrita">IDIOMAS</span> <br>
                                     <!--tambien se puede hacer con lista-->
                                     ESPAÑOL - Nativo <br>
                                     INGLÉS - Intermediate B2
@@ -325,11 +325,11 @@
                     </div>
                     <div class="col-12 col-sm-6 pe-5 " >
                         <div class="row shadow caja-i-h  ">
-                            <div class="col-sm-4 p-0 " >
+                            <div class="col-4 p-0 " >
                                 <i class="fa-solid fa-star imagen-ih pt-5"></i>
                             </div>
-                            <div class="col-sm-8 ">
-                                <p class="p-5"><span class="negrita">HOBBIES</span> <br>
+                            <div class="col-8 ">
+                                <p class="p-5 py-4"><span class="negrita">HOBBIES</span> <br>
                                     Tenis
                                 </p>
                             </div>
