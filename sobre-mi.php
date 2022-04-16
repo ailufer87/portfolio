@@ -20,23 +20,22 @@
         <!-- BARRA DE NAVEGACION -->
         <nav class="navbar navbar-expand-md mb-4 navbar-light bg-transparent">
             <div class="container">
-                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse"
-                    aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
                     <span class="navbar-toggler-icon"></span>
                 </button>
                 <div class="collapse navbar-collapse" id="navbarCollapse">
                     <ul class="navbar-nav me-auto mb-2 mb-md-0">
                         <li class="nav-item">
-                            <a class="nav-link px-4 py-1" aria-current="page" href="index.html">Inicio</a>
+                            <a class="nav-link px-4 py-1" aria-current="page" href="index.php">Inicio</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link px-4 py-1 active" href="sobre-mi.html">Sobre mi</a>
+                            <a class="nav-link px-4 py-1 active" href="sobre-mi.php">Sobre mi</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link px-4 py-1" href="proyectos.html">Proyectos</a>
+                            <a class="nav-link px-4 py-1" href="proyectos.php">Proyectos</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link px-4 py-1 " href="contacto.html">Contacto</a>
+                            <a class="nav-link px-4 py-1 " href="contacto.php">Contacto</a>
                         </li>
                     </ul>
                     <div class="d-flex">
@@ -70,8 +69,7 @@
                     <div class="col-sm-2 col-6 pt-4">
                         <div id="caja-tecnologia" class="px-4 py-5 d-block">
                             <h3 class="d-block pt-1">Javascript</h3>
-                            <img class="icono d-block mx-auto" src="https://img.stackshare.io/service/1209/javascript.jpeg"
-                                alt="Javascript">
+                            <img class="icono d-block mx-auto" src="https://img.stackshare.io/service/1209/javascript.jpeg" alt="Javascript">
 
                         </div>
 
@@ -79,40 +77,35 @@
                     <div class="col-sm-2 col-6 pt-4">
                         <div id="caja-tecnologia" class="px-4 py-5 d-block">
                             <h3 class="d-block pt-1">PHP</h3>
-                            <img class="icono d-block mx-auto"
-                                src="https://img.stackshare.io/service/991/hwUcGZ41_400x400.jpg" alt="PHP">
+                            <img class="icono d-block mx-auto" src="https://img.stackshare.io/service/991/hwUcGZ41_400x400.jpg" alt="PHP">
 
                         </div>
                     </div>
                     <div class="col-sm-2 col-6 pt-4">
                         <div id="caja-tecnologia" class="px-4 py-5 d-block">
                             <h3 class="d-block pt-1">HTML-5</h3>
-                            <img class="icono d-block mx-auto" src="https://img.stackshare.io/service/2538/kEpgHiC9.png"
-                                alt="HTML-5">
+                            <img class="icono d-block mx-auto" src="https://img.stackshare.io/service/2538/kEpgHiC9.png" alt="HTML-5">
 
                         </div>
                     </div>
                     <div class="col-sm-2 col-6 pt-4">
                         <div id="caja-tecnologia" class="px-4 py-5 d-block">
                             <h3 class="d-block pt-1">React.js</h3>
-                            <img class="icono d-block mx-auto" src="https://img.stackshare.io/service/1020/OYIaJ1KK.png"
-                                alt="React.js">
+                            <img class="icono d-block mx-auto" src="https://img.stackshare.io/service/1020/OYIaJ1KK.png" alt="React.js">
 
                         </div>
                     </div>
                     <div class="col-sm-2 col-6 pt-4">
                         <div id="caja-tecnologia" class="px-4 py-5 d-block">
                             <h3 class="d-block pt-1">jQuery</h3>
-                            <img class="icono d-block mx-auto"
-                                src="https://img.stackshare.io/service/1021/lxEKmMnB_400x400.jpg" alt="jQuery">
+                            <img class="icono d-block mx-auto" src="https://img.stackshare.io/service/1021/lxEKmMnB_400x400.jpg" alt="jQuery">
 
                         </div>
                     </div>
                     <div class="col-sm-2 col-6 pt-4">
                         <div id="caja-tecnologia" class="px-4 py-5 d-block">
                             <h3 class="d-block pt-1">Bootstrap</h3>
-                            <img class="icono d-block mx-auto" src="https://img.stackshare.io/service/1101/C9QJ7V3X.png"
-                                alt="Bootstrap">
+                            <img class="icono d-block mx-auto" src="https://img.stackshare.io/service/1101/C9QJ7V3X.png" alt="Bootstrap">
 
                         </div>
                     </div>
@@ -121,42 +114,35 @@
                     <div class="col-sm-2 col-6 pt-4">
                         <div id="caja-tecnologia" class="px-4 py-5 d-block">
                             <h3 class="d-block pt-1">Laravel</h3>
-                            <img class="icono d-block mx-auto"
-                                src="https://depcsuite.com/wp-content/uploads/2019/08/220px-Laravel.svg_.png"
-                                alt="Laravel">
+                            <img class="icono d-block mx-auto" src="https://depcsuite.com/wp-content/uploads/2019/08/220px-Laravel.svg_.png" alt="Laravel">
 
                         </div>
                     </div>
                     <div class="col-sm-2 col-6 pt-4">
                         <div id="caja-tecnologia" class="px-4 py-5 d-block">
                             <h3 class="d-block pt-1">MySQL</h3>
-                            <img class="icono d-block mx-auto"
-                                src="https://img.stackshare.io/service/1615/mariadb-logo-400x400.png" alt="MySQL">
+                            <img class="icono d-block mx-auto" src="https://img.stackshare.io/service/1615/mariadb-logo-400x400.png" alt="MySQL">
 
                         </div>
                     </div>
                     <div class="col-sm-2 col-6 pt-4">
                         <div id="caja-tecnologia" class="px-4 py-5 d-block">
                             <h3 class="d-block pt-1">CSS</h3>
-                            <img class="icono d-block mx-auto" src="https://img.stackshare.io/service/6727/css.png"
-                                alt="CSS">
+                            <img class="icono d-block mx-auto" src="https://img.stackshare.io/service/6727/css.png" alt="CSS">
 
                         </div>
                     </div>
                     <div class="col-sm-2 col-6 pt-4">
                         <div id="caja-tecnologia" class="px-4 py-5 d-block">
                             <h3 class="d-block pt-1">GIT</h3>
-                            <img class="icono d-block mx-auto" src="https://img.stackshare.io/service/1046/git.png"
-                                alt="GIT">
+                            <img class="icono d-block mx-auto" src="https://img.stackshare.io/service/1046/git.png" alt="GIT">
 
                         </div>
                     </div>
                     <div class="col-sm-2 col-6 pt-4">
                         <div id="caja-tecnologia" class="px-4 py-5 d-block">
                             <h3 class="d-block pt-1">Apache</h3>
-                            <img class="icono d-block mx-auto"
-                                src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Apache_Software_Foundation_Logo_%282016%29.svg/1200px-Apache_Software_Foundation_Logo_%282016%29.svg.png"
-                                alt="Apache">
+                            <img class="icono d-block mx-auto" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Apache_Software_Foundation_Logo_%282016%29.svg/1200px-Apache_Software_Foundation_Logo_%282016%29.svg.png" alt="Apache">
                         </div>
 
                     </div>
@@ -164,8 +150,7 @@
                     <div class="col-sm-2 col-6 pt-4">
                         <div id="caja-tecnologia" class="px-4 py-5 d-block">
                             <h3 class="d-block pt-1">Mercadopago</h3>
-                            <img class="icono d-block px-4"
-                                src="https://img.stackshare.io/service/12698/gUjuxmmd_400x400.jpg" alt="Mercadopago">
+                            <img class="icono d-block px-4" src="https://img.stackshare.io/service/12698/gUjuxmmd_400x400.jpg" alt="Mercadopago">
 
                         </div>
                     </div>
@@ -320,25 +305,39 @@
             </div>
         </div>
 
-        <div class="container-fluid" id="idioma-hobbie">
-            <div class="container">
-                <div class="row py-5 mx-0">
-                    <div class="col-12 col-sm-4 d-line">
-                        <i class="fa-solid fa-message"></i>
-                        <p>IDIOMAS <br>
-                            ESPAÑOL - Nativo <br>
-                            INGLÉS - Intermediate B2
-                        </p>
-                    </div>
-                    <div class="col-12 col-sm-4 d-line">
-                        <i class="fa-solid fa-star"></i>
-                        <p class="d-line">HOBBIES <br>
-                            Tenis
-                        </p>
-                    </div>
+        <div class="container-fluid " id="fila-gris">
 
+            <div class="container" >
+                <div class="row py-5 mx-0" >
+                    <div class="col-12 col-sm-6  pe-5 d-block">
+                        <div class="row shadow caja-i-h ">
+                            <div class="col-sm-4 p-0 ">
+                                <i class="fa-solid fa-message imagen-ih pt-5"></i>
+                            </div>
+                            <div class="col-sm-8 ">
+                                <p class="p-5"><span class="negrita">IDIOMAS</span> <br>
+                                    <!--tambien se puede hacer con lista-->
+                                    ESPAÑOL - Nativo <br>
+                                    INGLÉS - Intermediate B2
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-12 col-sm-6 pe-5 " >
+                        <div class="row shadow caja-i-h  ">
+                            <div class="col-sm-4 p-0 " >
+                                <i class="fa-solid fa-star imagen-ih pt-5"></i>
+                            </div>
+                            <div class="col-sm-8 ">
+                                <p class="p-5"><span class="negrita">HOBBIES</span> <br>
+                                    Tenis
+                                </p>
+                            </div>
+                        </div>
+                    </div>
                 </div>
             </div>
+
         </div>
     </main>
     <footer class="container mt-5">
@@ -355,8 +354,7 @@
             </div>
     </footer>
     <div class="whatsapp pt-3 pb-4 px-3">
-        <a href="https://api.whatsapp.com/send?phone=2213506283" title="Whatsapp" target="_blank"><i
-                class="fa-brands fa-whatsapp"></i>
+        <a href="https://api.whatsapp.com/send?phone=2213506283" title="Whatsapp" target="_blank"><i class="fa-brands fa-whatsapp"></i>
         </a>
     </div>
 

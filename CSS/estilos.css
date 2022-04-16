@@ -167,6 +167,35 @@ nav .active {
     height: fit-content;
 }
 
+#fila-gris {
+    background-color: #eeeeee;
+}
+
+#fila-gris .caja-i-h{
+    background-color: white;
+    border-radius: 8px;
+    height: 180px;
+}
+#fila-gris .caja-i-h .p{
+    text-align: center;
+}
+#fila-gris .caja-i-h .negrita{
+    font-weight: 600;
+}
+
+#fila-gris .caja-i-h .imagen-ih{
+    font-size: 80px;
+    text-align: center;
+    background-color: #370a6d;
+    border: #370a6d;
+    border-radius: 15px;
+    height: 180px;
+    width: 180px;
+    color: white;
+     ;
+}
+
+
 
 /*PAGINA CONTACTO*/
 #contacto{                              
@@ -270,8 +299,18 @@ footer a{
     color: #e20000;
     font-weight: 200;
 }
-}
+
 
 nav .active {
     width: fit-content;
+}
+
+
+#fila-gris .caja-i-h .imagen-ih{
+    width: 120px;
+}
+    
+#logos-trabajos img {
+    display:none
+}
 }
