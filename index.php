@@ -52,8 +52,8 @@
 
 
             <div class="row">
-                <div class="col-12">
-                    <a class="btn btn-azul " href="proyectos.php">Conoce mis proyectos</a>
+                <div class="col-12 text-center">
+                    <a class="btn btn-azul shadow" href="proyectos.php">Conoce mis proyectos</a>
                 </div>
             </div>
     </main>
