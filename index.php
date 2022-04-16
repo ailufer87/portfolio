@@ -47,8 +47,15 @@
         </nav>
     </header>
 
-    <main>
+    <main class="container">
 
+
+
+            <div class="row">
+                <div class="col-12">
+                    <a class="btn btn-azul " href="proyectos.php">Conoce mis proyectos</a>
+                </div>
+            </div>
     </main>
     
     <footer class="container mt-5">

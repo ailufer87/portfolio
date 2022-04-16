@@ -49,6 +49,19 @@ nav .active {
     background-repeat: no-repeat;
 }
 
+.btn-azul{
+    color: #282828;
+    background-color: white;
+    border: 1px solid;
+    border-radius: 15px;
+    text-decoration: none;
+    text-align: center;
+}
+
+.btn-azul:hover{
+    background-color: #370a6d;
+    color: white;
+}
 
 /*PAGINA PROYECTOS*/
 #proyectos{
@@ -291,7 +304,7 @@ body{  /*puse al final el font-family para que sea lo ultimo que lee y modifique
 
  @media (max-width: 768px){
 
-#contacto{
+#contacto, #inicio{
     background-image: url(../imagenes/fondo-proyectos.png);
 }
 
