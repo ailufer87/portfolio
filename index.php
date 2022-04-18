@@ -55,7 +55,7 @@
         </div>
 
         <div class="row">
-            <div class="col-12 col-sm-6 my-4 text-center offset-sm-3  "> <!--CENTRE CON OFFSET-->
+            <div class="col-12 col-sm-6 my-4  text-center offset-sm-3  "> <!--CENTRE CON OFFSET-->
                 <p class= "bienvenido p-1 ">Bienvenid@ a mi sitio web sobre docencia en sistemas.</p>
             </div>
         </div>

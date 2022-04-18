@@ -77,9 +77,8 @@ nav .active {
    height: 400px;
 }
 
-.movimiento:hover{
-
-    
+.cohete:hover{
+    height: 405px;
     cursor: pointer;
     
 }
