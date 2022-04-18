@@ -48,9 +48,17 @@
     </header>
 
     <main class="container">
+        <div class="row">
+            <div class="col-12 text-center p-4">
+                <a class="movimiento" href="proyectos.php"><img src="imagenes/cohete.svg" alt="cohete" class="cohete" ></a>
+            </div>
+        </div>
 
-
-
+        <div class="row">
+            <div class="col-12 col-sm-6 my-4 text-center offset-sm-3  "> <!--CENTRE CON OFFSET-->
+                <p class= "bienvenido p-1 ">Bienvenid@ a mi sitio web sobre docencia en sistemas.</p>
+            </div>
+        </div>
             <div class="row">
                 <div class="col-12 text-center">
                     <a class="btn btn-azul shadow" href="proyectos.php">Conoce mis proyectos</a>

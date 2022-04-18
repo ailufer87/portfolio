@@ -63,6 +63,27 @@ nav .active {
     color: white;
 }
 
+.bienvenido {
+    border: solid 1px white ;
+    border-radius: 18px;
+    text-align: center;
+    font-size: 17px;
+    color: white;
+    font-weight: 600;
+    
+}
+
+.cohete{
+   height: 400px;
+}
+
+.movimiento:hover{
+
+    
+    cursor: pointer;
+    
+}
+
 /*PAGINA PROYECTOS*/
 #proyectos{
     background-image: url(../imagenes/fondo-proyectos.png);
@@ -331,4 +352,11 @@ nav .active {
 #logos-trabajos img {
     display:none
 }
+
+.bienvenido{
+    color: #E20000;
+    border: solid 1px #E20000;
+    
+}
+
 }
