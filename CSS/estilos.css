@@ -169,7 +169,7 @@ nav .active {
 #logos-trabajos img{
     max-width: 100%;
     height: auto;
-    color:#282828 !important;    /*no me sale el color*/
+    color:#282828 !important;    
 }
 #logos-trabajos .baw {
     filter: grayscale(100%);
