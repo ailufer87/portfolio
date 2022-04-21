@@ -51,9 +51,7 @@
             <div class="row">
                 <div class="col-12 col-sm-7 d-block">
                     <h1 class="mt-5 pb-4">Sobre mi</h1>
-                    <p class="pb-4">Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolore doloribus autem
-                        fugit maiores libero minima voluptatibus mollitia inventore eligendi quasi. Laudantium hic
-                        dolore, quasi a labore eaque quisquam delectus voluptates.</p>
+                    <p class="pb-4">Soy médica especialista en infectología, con ganas de aprender y desarrollarme en otras áreas, totalmente nuevas y desafiantes.</p>
                     <a href="../portfolio/contacto.html" class="btn btn-rojo mt-4">Enviar mensaje</a>
 
                 </div>
@@ -164,30 +162,24 @@
             <div class="shadow">
                 <div class="row mt-4">
                     <div class="col-sm-2 d-block " id="logos-trabajos">
-                        <img src="imagenes/logo-depcsuite.svg" alt="DePC" class="p-5 my-auto baw">
+                        <img src="imagenes/htal.jpg" alt="HTAL" class="p-5 my-auto baw">
                     </div>
                     <div class="col-sm-10 col-12" id="texto-trabajos">
-                        <h3>Director- Founder</h3>
-                        <h4>DEPCSUITE SA</h4>
-                        <h5>2016 - presente</h5>
-                        <p>Lidero el desarrollo y posicionamiento de la empresa en sus tres líneas de negocio: cloud
-                            services, desarrollo de sistemas y educación IT en Buenos Aires, con sedes en Puerto Madero
-                            y Belgrano. Celebración de convenios estratégicos. Desarrollo de nuevos productos.
-                            Coordinación del área de sistemas y educación. Docente de cursos tecnológicos en: Laravel,
-                            PHP, HTML, CSS, Javascript, jQuery, AJAX, React.js, Bootstrap, GitLab, HTTP Apache2, SSL,
-                            MySQL, HAProxy, ProFTPd, virtualización con VMware ESXi, GNU/Linux Debian.</p>
+                        <h3>Médica-Infectologa</h3>
+                        <h4>Hospital Rossi de La Plata</h4>
+                        <h5>2017 - presente</h5>
+                        <p>Soy parte del plantel del servicio de infectología</p>
                     </div>
                 </div>
                 <div class="row mt-4">
                     <div class="col-sm-2 d-block " id="logos-trabajos">
-                        <img src="imagenes/todocash-vertical.svg" alt="DePC" class="p-5 my-auto baw">
+                        <img src="imagenes/tecnico-informatico.png" alt="Investigacion" class="p-5 my-auto baw">
                     </div>
                     <div class="col-sm-10 col-12" id="texto-trabajos">
-                        <h3>Gerente de sistemas - Co-Founder</h3>
-                        <h4>TodoCash</h4>
-                        <h5>2021 - presente</h5>
-                        <p>Gestión de sistemas para la primera red de cajeros operada por una empresa no financiera con
-                            procesamiento independiente que funciona con billeteras virtuales.</p>
+                        <h3>Subinvestigadora</h3>
+                        <h4>Protocolos de vacunación</h4>
+                        <h5>2020-presente</h5>
+                        <p>Participo desde el rol de subinvestigadora en protocolos de vacunas</p>
                     </div>
                 </div>
 
@@ -199,11 +191,7 @@
                         <h3>Desarrollador Senior Full Stack</h3>
                         <h4>Universidad de Buenos Aires</h4>
                         <h5>ago 2015 - ene 2020</h5>
-                        <p>Planeamiento del proyecto, seguimiento, reuniones de avance, estimación de entregables. Trato
-                            con clientes y equipos internos. Desarrollo de nuevos sistemas. Capacitar y organizar el
-                            área de desarrollo. Gestionar los ambientes de desarrollo. Administrar repositorio. Asignar
-                            tareas al equipo. Tecnologías: Laravel, PHP, HTML, CSS, Javascript, jQuery, AJAX, SQL
-                            Server, IIS, Bootstrap, Microsoft Project, GitLab.</p>
+                        <p>ESTE LO PUSE PARA PRACTICAR (lo copie de Nelson)</p>
                     </div>
                 </div>
             </div>
@@ -214,32 +202,32 @@
                 <!--puse un ID q quizas no sirva-->
                 <div class="row mt-4 mb-3">
                     <div class="col-sm-1 ps-4 pt-3">
-                        <img src="../portfolio/imagenes/ean.jpg" alt="Escuela Argentina de Negocios" class="baw">
+                        <img src="../portfolio/imagenes/logounlp.png" alt="UNLP" class="baw">
                     </div>
                     <div class="col-sm-5" id="texto-trabajos">
-                        <h3>Licenciado en Tecnología</h3>
-                        <h4>Escuela Argentina de Negocios</h4>
-                        <h5>2015 – 2020</h5>
-                        <p>http://www.ean.edu.ar/</p>
+                        <h3>Médica</h3>
+                        <h4>Universidad Nacional de La Plata</h4>
+                        <h5>2007 – 2015</h5>
+                        <p>http://www.unlp.edu.ar/</p>
                     </div>
                     <div class="col-sm-1 ps-4 pt-3">
-                        <img src="imagenes/unlam.png" alt="UNLM" class="baw">
+                        <img src="imagenes/infecto.jpg" alt="infectologia" class="baw">
                     </div>
                     <div class="col-sm-5" id="texto-trabajos">
-                        <h3>Ingeniería en Informática</h3>
-                        <h4>Universidad Nacional de La Matanza</h4>
-                        <h5>2006 – 2010</h5>
-                        <p>Materias aprobadas 20 de 41, 48%.<br>
-                            http://unlam.edu.ar</p>
+                        <h3>Especialista en infectología</h3>
+                        <h4>HIGA R.Rossi. </h4>
+                        <h5>2017 – 2021</h5>
+                        <p>Residencia completa avalada por el Ministerio de Salud de la provincia de Buenos Aires<br>
+                            https://www.gba.gob.ar</p>
                     </div>
                     <div class="col-sm-1 ps-4 pt-3">
                         <img src="imagenes/tecnico-informatico.png" alt="Tecnico en informatica" class="baw">
                     </div>
                     <div class="col-sm-5" id="texto-trabajos">
-                        <h3>Tecnico en informatica</h3>
-                        <h4>Colegio Parroquial San Juan XXIII</h4>
-                        <h5>2003 – 2005</h5>
-                        <p>http://colparroquialjuan23.edu.ar</p>
+                        <h3>Bachiller</h3>
+                        <h4>Colegio Secundario Estacion Limay</h4>
+                        <h5>2001 – 2005</h5>
+                        <p>http://estacionlimay.edu.ar</p>
                     </div>
                 </div>
             </div>
@@ -255,7 +243,7 @@
                     <div class="col-sm-5" id="texto-trabajos">
                         <h3>Programa Ejecutivo en Project Management</h3>
                         <h4>Universidad Tecnológica Nacional</h4>
-                        <h5>Expedición: may 2018</h5>
+                        <h5>Esta seccion copie datos de Nelson para practicar, ya que sólo tengo cursos en relacion a la medicina</h5>
                     </div>
                     <div class="col-sm-1 ps-4 pt-3">
                         <img src="imagenes/ean (1).jpg" alt="DePCSuite" class="baw">
@@ -297,9 +285,9 @@
                         <img src="imagenes/tecnico-informatico.png" alt="DePCSuite" class="baw">
                     </div>
                     <div class="col-sm-5" id="texto-trabajos">
-                        <h3>English Intermediate B2</h3>
-                        <h4>Instituto John Milton de Cultura Inglesa</h4>
-                        <h5>Expedición: dic 2006</h5>
+                        <h3>English Advanced C1</h3>
+                        <h4>Cambridge advanced level</h4>
+                        <h5>Expedición: dic 2004</h5>
                     </div>
                 </div>
             </div>
@@ -315,10 +303,11 @@
                                 <i class="fa-solid fa-message imagen-ih pt-5"></i>
                             </div>
                             <div class="col-8 ">
-                                <p class="p-5 py-4"><span class="negrita">IDIOMAS</span> <br>
+                                <p class="p-4 py-1"><span class="negrita">IDIOMAS</span> <br>
                                     <!--tambien se puede hacer con lista-->
                                     ESPAÑOL - Nativo <br>
-                                    INGLÉS - Intermediate B2
+                                    INGLÉS - Advanced C1<br>
+                                    FRANCES- B1
                                 </p>
                             </div>
                         </div>
@@ -330,7 +319,7 @@
                             </div>
                             <div class="col-8 ">
                                 <p class="p-5 py-4"><span class="negrita">HOBBIES</span> <br>
-                                    Tenis
+                                    Running<br> Trekking<br>Windsurf
                                 </p>
                             </div>
                         </div>
