@@ -28,7 +28,7 @@
                 <div class="col-12 col-sm-7 d-block">
                     <h1 class="mt-5 pb-4">Sobre mi</h1>
                     <p class="pb-4">Soy médica especialista en infectología, con ganas de aprender y desarrollarme en otras áreas, totalmente nuevas y desafiantes.</p>
-                    <a href="../portfolio/contacto.html" class="btn btn-rojo mt-4">Enviar mensaje</a>
+                    <a href="../portfolio/contacto.php" class="btn btn-rojo mt-4">Enviar mensaje</a>
 
                 </div>
                 <div class="col-12 col-sm-3 d-block mb-5 foto">
@@ -217,8 +217,8 @@
                         <img src="../portfolio/imagenes/utn.jpg" alt="DePCSuite" class="baw">
                     </div>
                     <div class="col-sm-5" id="texto-trabajos">
-                        <h3>Programa Ejecutivo en Project Management</h3>
-                        <h4>Universidad Tecnológica Nacional</h4>
+                        <h3>Lorem ipsum</h3>
+                        <h4>Lorem ipsum</h4>
                         <h5>Esta seccion copie datos de Nelson para practicar, ya que sólo tengo cursos en relacion a la medicina</h5>
                     </div>
                     <div class="col-sm-1 ps-4 pt-3">
