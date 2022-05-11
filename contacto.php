@@ -34,7 +34,7 @@ $headers[] = 'From: contacto@portfolio.com>';
 // Mail it
 //mail($to, $subject, $message, implode("\r\n", $headers)); lo comento porque no tengo hosting
 
-header ("Location: http://localhost/portfolio/gracias.php");
+header ("Location: C:/xampp2/htdocs/portfolio/gracias.php"); //no se como dirigirlo
 
 } 
 }
