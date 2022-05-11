@@ -1,5 +1,43 @@
 <?php
     $pg="contacto";
+
+    if ($_POST){
+        if($_POST ["btnEnviar"]){ //creo q no es necesario este if
+
+        $nombre= $_POST ("txtNombre");
+        $correo= $_POST ("txtCorreo");
+        $telefono= $_POST ("txtTel");
+        $mensaje= $_POST ("txtmensaje");
+
+        
+// Multiple recipients
+$to = 'ailu.fer87@gmail.com'; // note the comma
+
+// Subject
+$subject = 'Recibiste un mensaje desde tu web';
+
+// Message
+$message =  "nombre: $nombre <br>
+correo: $correo <br>
+telefono: $telefono <br>
+mensaje: $mensaje"
+;
+
+// To send HTML mail, the Content-type header must be set
+$headers[] = 'MIME-Version: 1.0';
+$headers[] = 'Content-type: text/html; charset=iso-8859-1';
+
+// Additional headers
+$headers[] = 'To: ailu.fer87@gmail.com';
+$headers[] = 'From: contacto@portfolio.com>';
+
+// Mail it
+//mail($to, $subject, $message, implode("\r\n", $headers)); lo comento porque no tengo hosting
+
+header ("Location: http://localhost/portfolio/gracias.php");
+
+} 
+}
 ?>
 
 <!DOCTYPE html>
